@@ -6,7 +6,7 @@ import global_var
 from PIL import Image
 
 st.set_page_config(page_title='Loan', page_icon=':tiger:', layout='wide')
-img = Image.open('/Users/susanwu/Desktop/webapp/pic.jpg')
+img = Image.open('pic.jpg')
 
 col1, mid, col2 = st.columns([1,5,25])
 with col1:
