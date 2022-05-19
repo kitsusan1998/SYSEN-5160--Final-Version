@@ -5,7 +5,7 @@ import global_var
 
 def app():
 
-    model = joblib.load('https://github.com/kitsusan1998/SYSEN-5160--Final-Version/blob/main/log.model')
+    model = joblib.load('/Users/susanwu/Desktop/webapp/log.model')
 
     with st.form("my_form"):
 
