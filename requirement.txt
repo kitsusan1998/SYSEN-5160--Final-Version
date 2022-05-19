@@ -1,0 +1,7 @@
+joblib
+pandas
+numpy
+sklearn
+streamlit_multipage
+form
+result
