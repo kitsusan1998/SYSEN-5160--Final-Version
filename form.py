@@ -5,7 +5,7 @@ import global_var
 
 def app():
 
-    model = joblib.load('log.model.pkl')
+    model = joblib.load('log.model')
 
     with st.form("my_form"):
 
