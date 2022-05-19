@@ -3,7 +3,7 @@ import joblib
 
 
 def app():
-    model = joblib.load('/Users/shirleywang/desktop/webapp/log.model')
+    model = joblib.load('log.model')
 
     if 'submited_form' not in st.session_state:
         test_x = None
