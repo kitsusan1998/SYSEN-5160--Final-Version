@@ -12,7 +12,7 @@ Application Screenshot\
 <img width="1423" alt="image" src="https://user-images.githubusercontent.com/91804679/169677915-8ae9139b-dcf4-438f-8c73-3b894a92cb6e.png">
 
 Contact
-Susan Wu [[Email](mailto: fw249@cornell.edu)]\
+Susan Wu [[Email]:(fw249@cornell.edu)]\
 Xinzhu Wang [[Email](mailto: xw486@cornell.edu)]\
 Yuchen Tang [[Email](mailto: yt388@cornell.edu)]
   
