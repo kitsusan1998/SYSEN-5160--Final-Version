@@ -5,6 +5,13 @@ Abstract\
 Application
 App deployed [here](https://share.streamlit.io/kitsusan1998/sysen-5160--final-version/main/app.py)
 
-Application Screenshot
-Home Page
-<img width="1423" alt="image" src="https://user-images.githubusercontent.com/91804679/169677815-8e75d98c-e73b-45a1-a94d-73d5059c88c5.png">
+Application Screenshot\
+  Home Page
+<img width="1423" alt="image" src="https://user-images.githubusercontent.com/91804679/169677815-8e75d98c-e73b-45a1-a94d-73d5059c88c5.png">\
+  Result Page
+
+Contact
+Susan Wu [[Email](mailto: fw249@cornell.edu)]\
+Xinzhu Wang [[Email](mailto: xw486@cornell.edu)]\
+Yuchen Tang [[Email](mailto: yt388@cornell.edu)]
+  
