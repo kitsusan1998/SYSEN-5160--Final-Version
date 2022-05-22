@@ -6,9 +6,9 @@
   App deployed [here](https://share.streamlit.io/kitsusan1998/sysen-5160--final-version/main/app.py)
 
 # Application Screenshot
-  Home Page
+  ## Home Page
 <img width="1423" alt="image" src="https://user-images.githubusercontent.com/91804679/169677815-8e75d98c-e73b-45a1-a94d-73d5059c88c5.png">\
-  Result Page
+  ## Result Page
 <img width="1423" alt="image" src="https://user-images.githubusercontent.com/91804679/169677915-8ae9139b-dcf4-438f-8c73-3b894a92cb6e.png">
 
 # Contact
