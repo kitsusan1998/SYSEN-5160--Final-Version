@@ -7,3 +7,4 @@ App deployed [here](https://share.streamlit.io/kitsusan1998/sysen-5160--final-ve
 
 Application Screenshot
 Home Page
+<img width="1423" alt="image" src="https://user-images.githubusercontent.com/91804679/169677815-8e75d98c-e73b-45a1-a94d-73d5059c88c5.png">
